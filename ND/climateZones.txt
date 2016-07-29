@@ -1,0 +1,16 @@
+Bismarck.727640_TMY2|6A
+Bismarck.Muni.AP.727640_TMY|6A
+Bismarck.Muni.AP.727640_TMY3|6A
+Devils.Lake.AWOS.727573_TMY3|6A
+Dickinson.Muni.AP.727645_TMY3|6A
+Fargo-Hector.Intl.AP.727530_TMY|7
+Fargo-Hector.Intl.AP.727530_TMY3|6A
+Fargo.727530_TMY2|6A
+Grand.Forks.AFB.727575_TMY3|6A
+Grand.Forks.Intl.AP.727576_TMY3|7
+Jamestown.Muni.AP.727535_TMY3|7
+Minot.727676_TMY2|6A
+Minot.AFB.727675_TMY3|6A
+Minot.Intl.AP.727676_TMY|7
+Minot.Intl.AP.727676_TMY3|6A
+Williston-Sloulin.Field.Intl.AP.727670_TMY3|6A

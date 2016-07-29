@@ -1,0 +1,15 @@
+Beckley-Raleigh.County.Mem.AP.724120_TMY3|4A
+Bluefield-Mercer.County.AP.724125_TMY3|4A
+Charleston-Yeager.AP.724140_TMY|4A
+Charleston-Yeager.AP.724140_TMY3|4A
+Charleston.724140_TMY2|4A
+Clarksburg-Harrison.Marion.Rgnl.AP.724175_TMY3|4A
+Elkins-Randolph.County.AP.724170_TMY3|5A
+Elkins.724170_TMY2|5A
+Huntington-Tri.State.Walker.Long.Field.724250_TMY3|4A
+Huntington.724250_TMY2|4A
+Lewisburg-Greenbrier.Valley.AP.724127_TMY3|5A
+Martinsburg-Eastern.WV.Rgnl.AP.724177_TMY3|4A
+Morgantown.Muni-Hart.Field.724176_TMY3|4A
+Parkersburg-Wood.County-Gill.Robb.Wilson.AP.724273_TMY3|4A
+Wheeling-Ohio.County.AP.724275_TMY3|5A

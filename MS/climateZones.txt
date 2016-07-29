@@ -1,0 +1,17 @@
+Biloxi-Keesler.AFB.747686_TMY3|2A
+Columbus.AFB.723306_TMY3|3A
+Golden.Triangle.Rgnl.AWOS.723307_TMY3|3A
+Greenville.Muni.AP.722356_TMY3|3A
+Greenwood-Leflore.AP.722359_TMY3|3A
+Gulfport-Biloxi.Intl.AP.747685_TMY3|2A
+Hattiesburg-Laurel.AP.722348_TMY3|3A
+Jackson.722350_TMY2|3A
+Jackson.Intl.AP.722350_TMY|3A
+Jackson.Intl.AP.722350_TMY3|3A
+McComb-Pike.Co.AP.722358_TMY3|3A
+Meridian-Key.Field.722340_TMY|3A
+Meridian-Key.Field.722340_TMY3|3A
+Meridian.722340_TMY2|3A
+Meridian.NAS.722345_TMY3|3A
+Natchez-Hardy.Anders.Field.722357_TMY3|3A
+Tupelo.Muni-C.D.Lemons.AP.723320_TMY3|3A

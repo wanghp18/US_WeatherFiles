@@ -1,0 +1,5 @@
+Block.Island.State.AP.725058_TMY3|4A
+Pawtucket.AWOS.725054_TMY3|5A
+Providence-T.F.Green.State.AP.725070_TMY|5A
+Providence-T.F.Green.State.AP.725070_TMY3|5A
+Providence.725070_TMY2|5A

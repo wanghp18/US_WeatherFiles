@@ -1,0 +1,16 @@
+Anderson.County.AP.723125_TMY3|3A
+Beaufort.MCAS.722085_TMY3|3A
+Charleston.722080_TMY2|3A
+Charleston.Intl.AP.722080_TMY|3A
+Charleston.Intl.AP.722080_TMY3|3A
+Columbia.723100_TMY2|3A
+Columbia.Metro.AP.723100_TMY|3A
+Columbia.Metro.AP.723100_TMY3|3A
+Florence.Rgnl.AP.723106_TMY3|3A
+Greenville-Downtown.AP.723119_TMY3|3C
+Greenville-Spartanburg.723120_TMY2|3C
+Greer.Greenville-Spartanburg.AP.723120_TMY|3C
+Greer.Greenville-Spartanburg.AP.723120_TMY3|3A
+Myrtle.Beach.AFB.747910_TMY3|3A
+North.Myrtle.Beach-Grand.Strand.Field.747915_TMY3|3A
+Shaw.AFB.747900_TMY3|3A

@@ -1,0 +1,10 @@
+Bridgeport-Sikorsky.Mem.AP.725040_TMY3|4A
+Bridgeport.725040_TMY2|5A
+Danbury.Muni.AP.725086_TMY3|5A
+Groton-New.London.AP.725046_TMY3|5A
+Hartford-Bradley.Intl.AP.725080_TMY|5A
+Hartford-Bradley.Intl.AP.725080_TMY3|5A
+Hartford-Brainard.Field.725087_TMY3|4A
+Hartford.725087_TMY2|5A
+New.Haven-Tweed.AP.725045_TMY3|4A
+Oxford.AWOS.725029_TMY3|5A

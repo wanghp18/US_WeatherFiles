@@ -1,0 +1,13 @@
+Atlantic.City.724070_TMY2|4A
+Atlantic.City.Intl.AP.724070_TMY3|4A
+Belmar-Monmouth.County.AP.724084_TMY3|4A
+Caldwell-Essex.County.AP.724094_TMY3|4A
+Cape.May.County.AP.745966_TMY3|4A
+McGuire.AFB.724096_TMY|4A
+McGuire.AFB.724096_TMY3|4A
+Millville.Muni.AP.724075_TMY3|4A
+Newark.725020_TMY2|4A
+Newark.Intl.AP.725020_TMY|4A
+Newark.Intl.AP.725020_TMY3|4A
+Teterboro.AP.725025_TMY3|4A
+Trenton-Mercer.County.AP.724095_TMY3|4A

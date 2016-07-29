@@ -1,0 +1,10 @@
+Berlin.Muni.AP.726160_TMY3|6A
+Concord.726050_TMY2|6A
+Concord.Muni.AP.726050_TMY|5A
+Concord.Muni.AP.726050_TMY3|5A
+Keene-Dillant.Hopkins.AP.726165_TMY3|5A
+Laconia.Muni.AWOS.726155_TMY3|5A
+Lebanon.Muni.AP.726116_TMY3|5A
+Manchester.Muni.AP.743945_TMY3|5A
+Mount.Washington.726130_TMY3|8
+Pease.Intl.Tradeport.726055_TMY3|5A

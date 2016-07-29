@@ -1,0 +1,6 @@
+Burlington.726170_TMY2|6A
+Burlington.Intl.AP.726170_TMY|6A
+Burlington.Intl.AP.726170_TMY3|5A
+Montpelier.AP.726145_TMY3|6A
+Rutland.State.AP.725165_TMY3|6A
+Springfield-Hartnes.State.AP.726115_TMY3|5A

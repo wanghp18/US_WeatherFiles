@@ -1,0 +1,8 @@
+Andrews.AFB.745940_TMY3|4A
+Baltimore-Washington.Intl.AP.724060_TMY|4A
+Baltimore-Washington.Intl.AP.724060_TMY3|4A
+Baltimore.724060_TMY2|4A
+Hagerstown-Washington.County.Rgnl.AP.724066_TMY3|4A
+Patuxent.River.NAS.724040_TMY|4A
+Patuxent.River.NAS.724040_TMY3|3C
+Salisbury-Wicomico.County.Rgnl.AP.724045_TMY3|4A

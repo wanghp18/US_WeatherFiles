@@ -1,0 +1,17 @@
+Bristol-TriCities.Rgnl.AP.723183_TMY3|4A
+Bristol.723183_TMY2|4A
+Chattanooga-Lovell.Field.AP.723240_TMY|3A
+Chattanooga-Lovell.Field.AP.723240_TMY3|3A
+Chattanooga.723240_TMY2|3A
+Crossville.Mem.AP.723265_TMY3|4A
+Dyersburg.Muni.AP.723347_TMY3|3A
+Jackson-McKellar.Sipes.Rgnl.AP.723346_TMY3|3A
+Knoxville-McGhee.Tyson.AP.723260_TMY|4A
+Knoxville-McGhee.Tyson.AP.723260_TMY3|4A
+Knoxville.723260_TMY2|3C
+Memphis.723340_TMY2|3A
+Memphis.Intl.AP.723340_TMY|3A
+Memphis.Intl.AP.723340_TMY3|3A
+Nashville.723270_TMY2|4C
+Nashville.Intl.AP.723270_TMY|3A
+Nashville.Intl.AP.723270_TMY3|3A
